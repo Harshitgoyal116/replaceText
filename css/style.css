@@ -1,0 +1,31 @@
+/* Google fonts -> PACIFICO */
+@import url('https://fonts.googleapis.com/css2?family=Bubblegum+Sans&family=Pacifico&display=swap');
+
+body{
+    font-family: 'Bubblegum Sans', cursive;
+}
+
+.navbar-brand{
+    font-family: 'Pacifico', cursive;
+}
+
+textarea{
+    resize: none;
+}
+
+#Output-TextArea{
+    background-color: white !important;
+    box-shadow: none;
+}
+
+input::placeholder{
+    color:rgb(240,240,240);
+}
+
+input{
+    border: 1px solid #198759 !important;
+}
+
+#replace-text{
+    border-right: none !important;
+}
